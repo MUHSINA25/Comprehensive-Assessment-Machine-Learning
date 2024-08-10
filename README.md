@@ -1,7 +1,4 @@
 # Comprehensive-Assessment-Machine-Learning
-# **Car Price Prediction Project**
-
-This repository contains code and analysis for predicting car prices using machine learning models. The goal is to understand factors influencing car prices and to build models to estimate these prices effectively.
 
 ## 1. Data Loading and Preprocessing
 
