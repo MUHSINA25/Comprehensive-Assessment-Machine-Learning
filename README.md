@@ -22,7 +22,7 @@ A Chinese automobile company is planning to enter the US market and seeks insigh
 
 ## **Dataset**
 
-The dataset used is `CarPrice_Assignment.csv`, which includes various features related to car specifications. The target variable is the car price.
+the dataset used for the project is [CarPrice Dataset](https://drive.google.com/file/d/1FHmYNLs9v0Enc-UExEMpitOFGsWvB2dP/view?usp=drive_link)
 
 ## **Structure**
 
@@ -30,8 +30,7 @@ The dataset used is `CarPrice_Assignment.csv`, which includes various features r
 - **`Car_Price_Prediction.ipynb`**: Jupyter Notebook with code and analysis.
 - **`README.md`**: Project documentation.
 
-## **How to Run**
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/MUHSINA25/CarPrice_Prediction.git
+   git clone https://github.com/MUHSINA25/Comprehensive-Assessment-Machine-Learning.git
